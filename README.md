@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @gunasekhark11
 - I am a Game Audio designer and music composer
 - 👀 I’m interested in ...Sound design in UE5
-- 💞️ I’m looking to collaborate on ...UE5 
 - 📫 How to reach me ...
 
 <!---
